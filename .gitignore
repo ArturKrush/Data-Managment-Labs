@@ -5,3 +5,4 @@ __pycache__/
 pgdata/
 chdata/
 mongodata/
+.env
